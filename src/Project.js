@@ -7,7 +7,7 @@ function Project() {
     <section id="service" className="" key={index}>
       <div className="card mt-4 flex flex-col md:flex-row gap-8">
         <div className="w-full shadow-lg rounded-md px-4 py-5 flex flex-col items-center text-center gap-1">
-          {value.image != "#" ? (
+          {value.image != "/#" ? (
             <a href={value.link}>
               {" "}
               <img src={value.image} className="w-48" />{" "}

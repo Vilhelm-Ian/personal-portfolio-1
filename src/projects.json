@@ -2,84 +2,84 @@
   {
     "title": "Eisen Hower Matrix",
     "description": "The Habitica Eisenhower Matrix API site allows users to integrate their Habitica task list with an Eisenhower Matrix, a productivity tool that categorizes tasks based on their urgency and importance. Using the Habitica API, the site fetches the user's task data and organizes it into the four quadrants of the matrix: Important and Urgent, Important but Not Urgent, Urgent but Not Important, and Not Important or Urgent. Users can then prioritize and schedule their tasks accordingly, using Habitica's gamification features to stay motivated and on track. The site provides a simple, streamlined interface for managing tasks, making it easy to get things done and achieve your goals.",
-    "image": "eisenhower.png",
+    "image": "/eisenhower.png",
     "link": "http://eisenhower-matrix-habitica.vercel.app/",
     "repo": "https://github.com/Vilhelm-Ian/Eisenhower_matrix_habitica"
   },
   {
     "title": "To Do list",
     "description": "A powerful and versatile to-do list website that lets users store their tasks in a MongoDB database or local storage, providing them with secure and reliable access to their to-do lists from anywhere. With advanced features such as password encryption using bcrypt and user authentication with JWT, ensures that users' personal information and tasks remain safe and secure. The website's user-friendly interface makes it easy to create, edit, and delete tasks, as well as prioritize them by due date.",
-    "image": "#",
+    "image": "/#",
     "link": "https://github.com/Vilhelm-Ian/to-do-list",
     "repo": "https://github.com/Vilhelm-Ian/to-do-list"
   },
   {
     "title": "Pgn to gif converter",
     "description": "A lightning-fast tool for converting chess Portable Game Notation (PGN) files to animated GIFs in less than a second. Built using the Rust programming language, this tool utilizes multithreading to efficiently process and convert PGNs to GIFs. ",
-    "image": "gif.gif",
+    "image": "/gif.gif",
     "link": "#",
     "repo": "https://github.com/Vilhelm-Ian/pgn_to_gif"
   },
   {
     "title": "Conway game of life",
     "description": "Brings John Conway's famous Game of Life to life with an innovative twist. Built using multithreading techniques, this project leverages the power of modern processors to simulate the complex cellular automata patterns of the Game of Life in real-time",
-    "image": "#",
+    "image": "/#",
     "link": "#",
     "repo": "https://github.com/Vilhelm-Ian/Conway-Game-Of-Life"
   },
   {
     "title": "Pong",
     "description": "Built using the Bevy game engine, this project allows players to challenge a computer opponent in a fast-paced game of Pong.",
-    "image": "#",
+    "image": "/#",
     "link": "#",
     "repo": "https://github.com/Vilhelm-Ian/bevy-pong"
   },
   {
     "title": "Whose that pokemon",
     "description": "Is a fun and engaging website that challenges users to identify Pokemon characters by their silhouettes. The website displays a black sprite of a Pokemon character and users have to guess which character it represents.",
-    "image": "pokemon.png",
+    "image": "/pokemon.png",
     "link": "http://whoose-that-pokemon.vercel.app/",
     "repo": "https://github.com/Vilhelm-Ian/whoose_that_pokemon"
   },
   {
     "title": "Pomodoro timer",
     "description": "Is a versatile and user-friendly Pomodoro Timer website that combines the traditional Pomodoro Technique with modern web technologies. What sets it apart is allowing users to install it as a PWA allowing them access to the app any time(even when no internet conection)",
-    "image": "timer.png",
+    "image": "/timer.png",
     "link": "http://timer-murex-kappa.vercel.app/",
     "repo": "https://github.com/Vilhelm-Ian/timer"
   },
   {
     "title": "Match Pairs",
     "description": "Is a fun and interactive website that challenges users to test their memory and matching skills with a variety of colorful and expressive emojis. The game involves flipping over pairs of emojis to find matching pairs, with increasing levels of difficulty",
-    "image": "match.png",
+    "image": "/match.png",
     "link": "https://match-pairs-beta.vercel.app",
     "repo": "https://github.com/Vilhelm-Ian/Match-Pairs"
   },
   {
     "title": "Tic Tac Toe",
     "description": "A versatile and engaging website that offers multiple game modes for players to enjoy. Users can choose to play 1v1 on the same computer, play against a computer, or play against another player over a network using web sockets.",
-    "image": "tictactoe.png",
+    "image": "/tictactoe.png",
     "link": "https://tic-tac-toe-rust-eight.vercel.app",
     "repo": "https://github.com/Vilhelm-Ian/tic-tac-toe"
   },
   {
     "title": "PNG secret keeper",
     "description": "A versatile and engaging website that offers multiple game modes for players to enjoy. Users can choose to play 1v1 on the same computer, play against a computer, or play against another player over a network using web sockets.",
-    "image": "#",
+    "image": "/#",
     "link": "#",
     "repo": "https://github.com/Vilhelm-Ian/PngMe-Rust"
   },
   {
     "title": "Scrape IPA from witionary",
     "description": "Allows users to extract International Phonetic Alphabet (IPA) transcriptions from Wiktionary",
-    "image": "#",
+    "image": "/#",
     "link": "#",
     "repo": "https://github.com/Vilhelm-Ian/scrape-ipa-and-meaning-wiktionary"
   },
   {
     "title": "Project Euler first 50 problems",
     "description": "A valuable and insightful learning experience. As I tackled each Project Euler problem in Rust, I was forced to think critically and apply my knowledge of Rust programming to solve complex mathematical problems.",
-    "image": "project_euler.webp",
+    "image": "/project_euler.webp",
     "link": "#",
     "repo": "https://github.com/Vilhelm-Ian/Project-euler"
   }
