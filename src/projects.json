@@ -9,8 +9,8 @@
   {
     "title": "To Do list",
     "description": "A powerful and versatile to-do list website that lets users store their tasks in a MongoDB database or local storage, providing them with secure and reliable access to their to-do lists from anywhere. With advanced features such as password encryption using bcrypt and user authentication with JWT, ensures that users' personal information and tasks remain safe and secure. The website's user-friendly interface makes it easy to create, edit, and delete tasks, as well as prioritize them by due date.",
-    "image": "/#",
-    "link": "https://github.com/Vilhelm-Ian/to-do-list",
+    "image": "/todo.png",
+    "link": "to-do-list-alpha-virid.vercel.app",
     "repo": "https://github.com/Vilhelm-Ian/to-do-list"
   },
   {
